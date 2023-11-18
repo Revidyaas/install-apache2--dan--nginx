@@ -6,7 +6,7 @@
 ```sudo apt update && sudo apt upgrade```
 ### Install Apache2 
 ```sudo apt intall apache2```
-image 1
+![Alt Text]()
 ### Cek intallasi Apache2
 ```sudo ufw app list ```
 command ini akan menampilkan list dari aplikasi yang bisa di gunakan oleh Uncomplicated Firewall (UFW) di sistem Linux
