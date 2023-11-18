@@ -6,13 +6,15 @@
 ```sudo apt update && sudo apt upgrade```
 ### Install Apache2 
 ```sudo apt intall apache2```
+
 ![image1](https://user-images.githubusercontent.com/150003742/284023653-26444e54-8998-47d1-80cc-ea08e617e8c1.jpg)
 ### Cek intallasi Apache2
 ```sudo ufw app list ```
 command ini akan menampilkan list dari aplikasi yang bisa di gunakan oleh Uncomplicated Firewall (UFW) di sistem Linux
 ### Cek Status Layanan Web Server Apache2
 ```sudo system status apache2```
-image 2
+
+![image2](https://user-images.githubusercontent.com/150003742/284023662-c7a971fb-9e34-438d-94f9-dcb44481b049.jpg)
 ### Install net tools 
 ```sudo apt install net-tools```
 ### Cek ip address
@@ -20,11 +22,13 @@ gunakan command
 ```ifconfig```
 atau
 ```Hostname -I```
-image 3
+
+![image3](https://user-images.githubusercontent.com/150003742/284023665-c8325253-2c9a-4ad9-8026-a813f6654ec4.jpg)
 lalu copy ip address
 ### Apache2 default page
 buka browser dan masukan ip address di kolom pencarian
-image 4
+
+![image4](https://user-images.githubusercontent.com/150003742/284023667-bce2c014-922e-4217-9d2b-a957e567da80.jpg)
 anda berhasil
 ### Buat direktori baru di /var/www/html
 ```mkdir namadirektori```
@@ -32,7 +36,7 @@ contoh : mkdir web
 lalu gunakan command cd untuk pergi ke direktori yang telah di buat
 ```cd namadirektori```
 contoh : cd web
-image 5
+![image5](https://user-images.githubusercontent.com/150003742/284023670-2911da88-fd84-4204-a304-243f3e99db78.jpg)
 ### Buka text editor 
 ```sudo nano index.html```
 image 6
