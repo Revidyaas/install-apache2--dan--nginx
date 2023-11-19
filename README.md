@@ -87,4 +87,4 @@ OS siap di gunakan
 ```if config``` atau ```Hostname -I```
 ### Cek hasil 
 buka browser cari dengan ip address di kolom pencarian
-
+~[image12](https://user-images.githubusercontent.com/150003742/284035908-a19f771e-366e-4b92-801b-0a119f75d80b.jpg)
