@@ -39,31 +39,31 @@ contoh : cd web
 ![image5](https://user-images.githubusercontent.com/150003742/284023670-2911da88-fd84-4204-a304-243f3e99db78.jpg)
 ### Buka text editor 
 ```sudo nano index.html```
-image 6
-masukkan text dengan formal html
+masukkan text dengan format html
 saya menggunakan :
-image 7
+image 6
 ### Cek hasil
 gunakan web browser dan masukan ip address/namadirektori 
 contoh : 192.168.1.11/web/
-image 8
+image 7
 ## Remote ke Command Prompt (CMD)
 gunakan SSH
 * buka CMD
 * masukkan command ```ssh user@ip address``` contoh : revidyaa@192.168.1.11
 * masukan passsword
-image 9
+image 8
 ## PuTTy
 * Download PuTTY melalui browser
 * masukan ip address ke dalam Putty
-image 10
+image 9
 * login dengan cara memasukan user dan password
-image 11
+image 10
 ## Ubuntu Desktop
 * Download Ubuntu Desktop melalui browser 
 * Install Ubuntu di Virtual box
 * Setting user dan Password untuk keperluan login
-image 12
+image 11
+OS siap di gunakan
  
 
 
