@@ -45,14 +45,14 @@ saya menggunakan :
 ### Cek hasil
 gunakan web browser dan masukan ip address/namadirektori 
 contoh : 192.168.1.11/web/
-![image7](https://user-images.githubusercontent.com/150003742/284031953-c25a011d-4e3f-4eee-a7d5-6aa8ee0808c5.jpg)
+![image7](https://user-images.githubusercontent.com/150003742/284031959-3dca007b-d20b-473b-a945-c05893dc9839.jpg)
 ## Remote ke Command Prompt (CMD)
 ### gunakan SSH
 * buka CMD
 * masukkan command ```ssh user@ip address``` contoh : revidyaa@192.168.1.11
 * masukan passsword
 
-!{image8](https://user-images.githubusercontent.com/150003742/284031963-d79aaa2a-6545-442a-a2dc-cddb30d23034.jpg)
+![image8](https://user-images.githubusercontent.com/150003742/284031963-d79aaa2a-6545-442a-a2dc-cddb30d23034.jpg)
 ### PuTTy
 * Download PuTTY melalui browser
 * masukan ip address ke dalam Putty
@@ -60,13 +60,13 @@ contoh : 192.168.1.11/web/
 ![image9](https://user-images.githubusercontent.com/150003742/284031967-5b9528d8-8a7c-4380-8e34-9845e88a1279.jpg)
 * login dengan cara memasukan user dan password
 
-![image10](https://user-images.githubusercontent.com/150003742/284031970-957f47a6-55fd-4e8e-ab26-d7f852ebbbf4.jpg
-)
+![image10](https://user-images.githubusercontent.com/150003742/284031970-957f47a6-55fd-4e8e-ab26-d7f852ebbbf4.jpg)
 ### Ubuntu Desktop
 * Download Ubuntu Desktop melalui browser 
 * Install Ubuntu di Virtual box
 * Setting user dan Password untuk keperluan login
-image 11
+
+![image11](https://user-images.githubusercontent.com/150003742/284031971-03ac820a-9c3a-4c6c-ad12-4b0dad4430a9.jpg)
 OS siap di gunakan
  
 
