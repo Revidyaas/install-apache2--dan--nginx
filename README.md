@@ -69,5 +69,22 @@ contoh : 192.168.1.11/web/
 ![image11](https://user-images.githubusercontent.com/150003742/284031971-03ac820a-9c3a-4c6c-ad12-4b0dad4430a9.jpg)
 OS siap di gunakan
  
-
+# Install NginX
+### Login ubuntu Server
+### Update an Upgrade Package 
+```sudo apt update```
+### Instal NginX
+``` sudo apt install nginx```
+### Cek instalasi NginX
+```sudo ufw app list```
+### Memberikan NginX Perizinan
+```sudo ufw allow 'NginX full' ```
+### Cek versi NginX
+``` nginx -v```
+### Cek status layanan web server NginX
+``` sudo systemctl status nginx```
+### Cek ip address
+```if config``` atau ```Hostname -I```
+### Cek hasil 
+buka browser cari dengan ip address di kolom pencarian
 
